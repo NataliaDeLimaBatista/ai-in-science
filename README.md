@@ -18,6 +18,6 @@ Begin with *Ten Simple Rules for Optimal and Careful Use of Generative AI in Sci
 
 Add the title and a link to the original source in the relevant file. A sentence about what you learned or why it’s worth reading makes a new article or resource easier to revisit.
 
-```markdown
+<!--
 - [Title](https://example.com) — Why it’s worth reading.
-```
+-->
